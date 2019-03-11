@@ -1,0 +1,10 @@
+C:\Users\dany-\Universidad\Topicos de Seguridad Web\Parcial 1\Prácticas\Cifrado AES\AESEncryption\AESEncryption\bin\Debug\AESEncryption.exe.config
+C:\Users\dany-\Universidad\Topicos de Seguridad Web\Parcial 1\Prácticas\Cifrado AES\AESEncryption\AESEncryption\bin\Debug\AESEncryption.exe
+C:\Users\dany-\Universidad\Topicos de Seguridad Web\Parcial 1\Prácticas\Cifrado AES\AESEncryption\AESEncryption\bin\Debug\AESEncryption.pdb
+C:\Users\dany-\Universidad\Topicos de Seguridad Web\Parcial 1\Prácticas\Cifrado AES\AESEncryption\AESEncryption\obj\Debug\AESEncryption.csprojAssemblyReference.cache
+C:\Users\dany-\Universidad\Topicos de Seguridad Web\Parcial 1\Prácticas\Cifrado AES\AESEncryption\AESEncryption\obj\Debug\AESEncryption.Form1.resources
+C:\Users\dany-\Universidad\Topicos de Seguridad Web\Parcial 1\Prácticas\Cifrado AES\AESEncryption\AESEncryption\obj\Debug\AESEncryption.Properties.Resources.resources
+C:\Users\dany-\Universidad\Topicos de Seguridad Web\Parcial 1\Prácticas\Cifrado AES\AESEncryption\AESEncryption\obj\Debug\AESEncryption.csproj.GenerateResource.cache
+C:\Users\dany-\Universidad\Topicos de Seguridad Web\Parcial 1\Prácticas\Cifrado AES\AESEncryption\AESEncryption\obj\Debug\AESEncryption.csproj.CoreCompileInputs.cache
+C:\Users\dany-\Universidad\Topicos de Seguridad Web\Parcial 1\Prácticas\Cifrado AES\AESEncryption\AESEncryption\obj\Debug\AESEncryption.exe
+C:\Users\dany-\Universidad\Topicos de Seguridad Web\Parcial 1\Prácticas\Cifrado AES\AESEncryption\AESEncryption\obj\Debug\AESEncryption.pdb
